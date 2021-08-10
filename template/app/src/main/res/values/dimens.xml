@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_small_size">64dp</dimen>
+    <dimen name="avatar_large_size">220dp</dimen>
+
+    <!-- Text dimen -->
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+
+    <!-- Margin/Padding dimen -->
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+
+</resources>
