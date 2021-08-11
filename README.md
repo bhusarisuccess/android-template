@@ -6,6 +6,8 @@ number, thumbnail along with a favorite button.
 2. Contact Details screen which lists the contact’s image in a bigger size,
 along with the contact’s email address.
 
+**Download The Apk**
+https://github.com/bhusarisuccess/android-template/blob/abhay/template/apk/app-debug.apk
 
 **Screenshotes**
 
