@@ -60,7 +60,7 @@
                 android:adjustViewBounds="true"
                 android:scaleType="centerCrop"
                 app:imageViewBinding="@{property.thumbnail}"
-                tools:srcCompat="@tools:sample/avatars" />
+                tools:srcCompat="@drawable/profile_placeholder" />
         </androidx.cardview.widget.CardView>
 
 

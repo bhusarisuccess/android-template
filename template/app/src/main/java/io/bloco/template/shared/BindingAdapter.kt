@@ -22,7 +22,8 @@ fun bindImageViewImageRounded(imgView: ImageView, imgUrl: String?) {
     imgUrl?.let {
         val imagePath = "${BuildConfig.BASE_URL}${imgUrl}"
         Glide.with(imgView.context)
-            .load(imagePath)
+            .load(imagePath).
+                placeholder(imgView.context.resources.getDrawable(R.drawable.profile_placeholder))
             .apply(
                 RequestOptions()
             )
